@@ -20,7 +20,9 @@ const mixedNumbers = [6,3,1,7,5,2,6,8,9,4,2,7,9,3,1,8,4,3];
   (element, index, wholeArray)=>{}    Arrow Form
 */
 
-//Code Here
+const mixedNumbers = mixedNumbers.filter (function(el, i, arr)) {
+  if (el === )
+}
 let evenNumbers // = mixedNumbers.filter(/* Provide Your Callback Here */)
 
 
